@@ -1,3 +1,5 @@
+
+// Basic Promise
 function ambilData() {
     return new Promise((resolve, reject) => {
         setTimeout(() => {
